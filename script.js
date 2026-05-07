@@ -82,7 +82,7 @@ let obj={
     name:"kannan",
     age:28
 }
-console.log(obj.name) //sounder
+console.log(obj.name) //kannan
 console.log(obj.age) //28
 
 let obj1 = {name:"kannan"};
